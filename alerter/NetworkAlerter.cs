@@ -1,3 +1,6 @@
+
+using System;
+
 namespace AlerterSpace
 {
   class NetworkAlerter : INetworkAlerter
