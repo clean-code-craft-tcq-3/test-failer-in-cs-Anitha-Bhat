@@ -1,4 +1,4 @@
-namespace misaligned
+namespace MisalignedSpace
 {
   public class ColorCodeInfo
   {
