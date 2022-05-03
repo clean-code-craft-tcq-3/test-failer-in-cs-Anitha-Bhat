@@ -20,7 +20,6 @@ namespace AlerterSpace
 
       Console.WriteLine("{0} alerts failed.", Alerter.alertFailureCount);
       Console.WriteLine("All is well (maybe!)\n");
-      Console.ReadKey();
     }
   }
 }
