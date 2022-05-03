@@ -11,7 +11,7 @@ namespace TshirtSpace
       {
         return "S";
       }
-      else if (cms => 38 && cms <= 42)
+      else if (cms >= 38 && cms <= 42)
       {
         return "M";
       }
