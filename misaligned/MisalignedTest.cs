@@ -16,7 +16,7 @@ namespace MisalignedSpace
       Debug.Assert(result[24].majorColor == "Violet");
       Debug.Assert(result[24].minorColor == "Slate");
       Console.WriteLine("All is well (maybe!)");
-      Console.ReadKey();
+     
     }
   }
 }
