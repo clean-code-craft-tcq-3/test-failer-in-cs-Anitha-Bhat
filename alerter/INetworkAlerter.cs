@@ -1,6 +1,6 @@
 namespace AlerterSpace
 {
- interface INetworkAlerter
+ public interface INetworkAlerter
   {
      int networkAlert(float celcius);
   }
