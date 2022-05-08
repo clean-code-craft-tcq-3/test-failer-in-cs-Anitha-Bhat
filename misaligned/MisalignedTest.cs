@@ -13,7 +13,7 @@ namespace MisalignedSpace
       Debug.Assert(result[0].printFormat.Length == result[result.Count - 1].printFormat.Length);
       Debug.Assert(result[0].majorColor == "White");
       Debug.Assert(result[0].minorColor == "Blue");
-
+      console.writeLine(result[9].majorColor);
       Debug.Assert(result[9].majorColor == "Red");
       Debug.Assert(result[9].minorColor == "Slate");
 
