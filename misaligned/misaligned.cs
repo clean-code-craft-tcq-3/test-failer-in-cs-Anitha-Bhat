@@ -24,7 +24,7 @@ namespace MisalignedSpace
             new ColorCodeInfo
             {
               majorColor = majorColors[i],
-              minorColor = minorColors[i],
+              minorColor = minorColors[j],
               printFormat = colorFormatToDisplay
 
             });
